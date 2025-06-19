@@ -10,6 +10,7 @@ This document explains the key components that make up the architecture of a Kub
 
 ---
 
+![image](https://github.com/user-attachments/assets/adaf90e9-e6e9-49a5-9b9d-d7e9b95c1e6f)
 
 
 ## Control Plane (Master Node Components)
